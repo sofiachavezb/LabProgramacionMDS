@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+numpy
+#matplotlib
+matplotlib-inline
+ydata-profiling
+setuptools
+pyarrow
