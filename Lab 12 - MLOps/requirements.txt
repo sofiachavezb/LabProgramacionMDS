@@ -1,0 +1,8 @@
+flask
+flask-restx
+optuna
+mlflow
+xgboost
+scikit-learn
+pandas
+matplotlib

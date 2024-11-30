@@ -6,3 +6,6 @@ matplotlib-inline
 ydata-profiling
 setuptools
 pyarrow
+optuna
+xgboost
+lightgbm

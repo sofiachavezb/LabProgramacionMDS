@@ -1,1 +1,4 @@
 *.csv
+mlruns
+models
+plots/*
