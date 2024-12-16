@@ -9,3 +9,5 @@ pyarrow
 optuna
 xgboost
 lightgbm
+plotly
+nbformat
